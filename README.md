@@ -1,4 +1,3 @@
 Data Scraping and Data Visualization for the List of Largest Companies in the United States by Revenue.
-Scraping data from Wikipedia, and import it into csv file using Python and Pandas. 
-Create data visualization using Tableau. 
-This project aims to determine whether having a large workforce results in higher revenue and also identify the industry sectors with the highest revenue.
+Scraping data from Wikipedia, and create data visualization using Python (BeautifulSoup, requests, pandas, matplotlib.pyplot). 
+This project aims to determine which industry type has the highest revenue and which city has the largest number of employees at the headquarters.
